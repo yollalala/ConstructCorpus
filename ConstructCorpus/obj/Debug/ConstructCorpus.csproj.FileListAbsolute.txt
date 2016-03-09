@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\ConstructCorpus\ConstructCorpus\bin\Debug\ConstructCorpus.exe.config
+C:\Users\asus\Documents\Visual Studio 2013\Projects\ConstructCorpus\ConstructCorpus\bin\Debug\ConstructCorpus.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\ConstructCorpus\ConstructCorpus\bin\Debug\ConstructCorpus.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\ConstructCorpus\ConstructCorpus\obj\Debug\ConstructCorpus.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\ConstructCorpus\ConstructCorpus\obj\Debug\ConstructCorpus.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\ConstructCorpus\ConstructCorpus\obj\Debug\ConstructCorpus.pdb
