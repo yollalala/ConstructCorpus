@@ -30,5 +30,10 @@ namespace ConstructCorpus
 
             return content;
         }
+
+        public static void addAllToFile(string directory, string[] lines)
+        {
+            File.WriteAllLines(directory, lines);
+        }
     }
 }
